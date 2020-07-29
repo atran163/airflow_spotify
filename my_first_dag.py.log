@@ -1,0 +1,70 @@
+[2020-06-15 22:17:09,555] {scheduler_job.py:154} INFO - Started process (PID=34244) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:17:09,566] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-15 22:17:09,567] {logging_mixin.py:112} INFO - [2020-06-15 22:17:09,566] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:17:09,578] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:17:09,607] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.052 seconds
+[2020-06-15 22:18:05,694] {scheduler_job.py:154} INFO - Started process (PID=34297) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:18:05,709] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-15 22:18:05,710] {logging_mixin.py:112} INFO - [2020-06-15 22:18:05,710] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:18:05,723] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-15 22:18:05,757] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.063 seconds
+[2020-06-16 11:21:49,071] {scheduler_job.py:154} INFO - Started process (PID=38748) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:21:49,085] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:21:49,086] {logging_mixin.py:112} INFO - [2020-06-16 11:21:49,086] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:21:49,097] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:21:49,129] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.059 seconds
+[2020-06-16 11:22:45,251] {scheduler_job.py:154} INFO - Started process (PID=38791) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:22:45,261] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:22:45,262] {logging_mixin.py:112} INFO - [2020-06-16 11:22:45,262] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:22:45,284] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:22:45,310] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.060 seconds
+[2020-06-16 11:23:41,406] {scheduler_job.py:154} INFO - Started process (PID=38832) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:23:41,417] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:23:41,418] {logging_mixin.py:112} INFO - [2020-06-16 11:23:41,417] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:23:41,429] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:23:41,456] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.050 seconds
+[2020-06-16 11:24:37,580] {scheduler_job.py:154} INFO - Started process (PID=38877) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:24:37,598] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:24:37,600] {logging_mixin.py:112} INFO - [2020-06-16 11:24:37,599] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:24:37,620] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:24:37,663] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.083 seconds
+[2020-06-16 11:25:33,750] {scheduler_job.py:154} INFO - Started process (PID=38917) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:25:33,765] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:25:33,766] {logging_mixin.py:112} INFO - [2020-06-16 11:25:33,766] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:25:33,777] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:25:33,804] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.054 seconds
+[2020-06-16 11:26:29,951] {scheduler_job.py:154} INFO - Started process (PID=38967) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:26:29,969] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:26:29,970] {logging_mixin.py:112} INFO - [2020-06-16 11:26:29,970] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:26:29,985] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:26:30,017] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.066 seconds
+[2020-06-16 11:27:26,084] {scheduler_job.py:154} INFO - Started process (PID=39008) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:27:26,104] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:27:26,106] {logging_mixin.py:112} INFO - [2020-06-16 11:27:26,105] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:27:26,128] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:27:26,162] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.078 seconds
+[2020-06-16 11:28:22,304] {scheduler_job.py:154} INFO - Started process (PID=39049) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:28:22,314] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:28:22,315] {logging_mixin.py:112} INFO - [2020-06-16 11:28:22,315] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:28:22,327] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:28:22,354] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.050 seconds
+[2020-06-16 11:29:18,496] {scheduler_job.py:154} INFO - Started process (PID=39091) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:29:18,509] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:29:18,510] {logging_mixin.py:112} INFO - [2020-06-16 11:29:18,510] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:29:18,522] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:29:18,550] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.055 seconds
+[2020-06-16 11:30:14,686] {scheduler_job.py:154} INFO - Started process (PID=39136) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:30:14,699] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:30:14,700] {logging_mixin.py:112} INFO - [2020-06-16 11:30:14,700] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:30:14,711] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:30:14,739] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.053 seconds
+[2020-06-16 11:31:10,866] {scheduler_job.py:154} INFO - Started process (PID=39178) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:31:10,879] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:31:10,880] {logging_mixin.py:112} INFO - [2020-06-16 11:31:10,880] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:31:10,893] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:31:10,920] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.055 seconds
+[2020-06-16 11:32:07,037] {scheduler_job.py:154} INFO - Started process (PID=39223) to work on /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:32:07,049] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/my_first_dag.py for tasks to queue
+[2020-06-16 11:32:07,051] {logging_mixin.py:112} INFO - [2020-06-16 11:32:07,050] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:32:07,063] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/AmandaTran/airflow/dags/my_first_dag.py
+[2020-06-16 11:32:07,090] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/my_first_dag.py took 0.053 seconds

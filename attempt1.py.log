@@ -1,0 +1,175 @@
+[2020-07-18 22:22:01,860] {scheduler_job.py:154} INFO - Started process (PID=96722) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:22:01,877] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:22:01,879] {logging_mixin.py:112} INFO - [2020-07-18 22:22:01,878] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:22:01,889] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:22:01,922] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.062 seconds
+[2020-07-18 22:23:35,494] {scheduler_job.py:154} INFO - Started process (PID=96876) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:23:35,508] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:23:35,510] {logging_mixin.py:112} INFO - [2020-07-18 22:23:35,509] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:23:35,523] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:23:35,550] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.055 seconds
+[2020-07-18 22:25:08,352] {scheduler_job.py:154} INFO - Started process (PID=96940) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:25:08,365] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:25:08,367] {logging_mixin.py:112} INFO - [2020-07-18 22:25:08,366] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:25:08,385] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:25:08,420] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.068 seconds
+[2020-07-18 22:26:39,790] {scheduler_job.py:154} INFO - Started process (PID=97008) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:26:39,804] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:26:39,805] {logging_mixin.py:112} INFO - [2020-07-18 22:26:39,805] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:26:39,820] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:26:39,849] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.059 seconds
+[2020-07-18 22:28:13,130] {scheduler_job.py:154} INFO - Started process (PID=97084) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:28:13,142] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:28:13,144] {logging_mixin.py:112} INFO - [2020-07-18 22:28:13,143] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:28:13,166] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:28:13,205] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.075 seconds
+[2020-07-18 22:29:11,276] {scheduler_job.py:154} INFO - Started process (PID=97152) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:29:11,292] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:29:11,295] {logging_mixin.py:112} INFO - [2020-07-18 22:29:11,294] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:29:11,317] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:29:11,354] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.078 seconds
+[2020-07-18 22:30:09,406] {scheduler_job.py:154} INFO - Started process (PID=97203) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:30:09,420] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:30:09,422] {logging_mixin.py:112} INFO - [2020-07-18 22:30:09,421] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:30:09,439] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:30:09,469] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.064 seconds
+[2020-07-18 22:31:07,610] {scheduler_job.py:154} INFO - Started process (PID=97243) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:31:07,624] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:31:07,626] {logging_mixin.py:112} INFO - [2020-07-18 22:31:07,625] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:31:07,638] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:31:07,663] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.053 seconds
+[2020-07-18 22:32:05,815] {scheduler_job.py:154} INFO - Started process (PID=97282) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:32:05,831] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:32:05,832] {logging_mixin.py:112} INFO - [2020-07-18 22:32:05,832] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:32:05,841] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:32:05,902] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.087 seconds
+[2020-07-18 22:33:04,041] {scheduler_job.py:154} INFO - Started process (PID=97318) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:33:04,061] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:33:04,063] {logging_mixin.py:112} INFO - [2020-07-18 22:33:04,063] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:33:04,083] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:33:04,110] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.069 seconds
+[2020-07-18 22:34:02,269] {scheduler_job.py:154} INFO - Started process (PID=97361) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:34:02,282] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:34:02,285] {logging_mixin.py:112} INFO - [2020-07-18 22:34:02,284] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:34:02,299] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:34:02,334] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.066 seconds
+[2020-07-18 22:35:00,483] {scheduler_job.py:154} INFO - Started process (PID=97397) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:00,494] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:35:00,495] {logging_mixin.py:112} INFO - [2020-07-18 22:35:00,495] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:00,504] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:00,536] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.053 seconds
+[2020-07-18 22:35:58,690] {scheduler_job.py:154} INFO - Started process (PID=97452) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:58,703] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:35:58,704] {logging_mixin.py:112} INFO - [2020-07-18 22:35:58,704] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:58,720] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:35:58,745] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.055 seconds
+[2020-07-18 22:36:56,909] {scheduler_job.py:154} INFO - Started process (PID=97494) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:36:56,923] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:36:56,924] {logging_mixin.py:112} INFO - [2020-07-18 22:36:56,924] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:36:56,939] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:36:56,969] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.060 seconds
+[2020-07-18 22:37:55,128] {scheduler_job.py:154} INFO - Started process (PID=97529) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:37:55,142] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:37:55,143] {logging_mixin.py:112} INFO - [2020-07-18 22:37:55,143] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:37:55,151] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:37:55,178] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.050 seconds
+[2020-07-18 22:38:53,360] {scheduler_job.py:154} INFO - Started process (PID=97564) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:38:53,388] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:38:53,391] {logging_mixin.py:112} INFO - [2020-07-18 22:38:53,390] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:38:53,401] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:38:53,427] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.067 seconds
+[2020-07-18 22:39:51,604] {scheduler_job.py:154} INFO - Started process (PID=97608) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:39:51,617] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:39:51,618] {logging_mixin.py:112} INFO - [2020-07-18 22:39:51,618] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:39:51,636] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:39:51,662] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.057 seconds
+[2020-07-18 22:40:49,855] {scheduler_job.py:154} INFO - Started process (PID=97651) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:40:49,868] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:40:49,870] {logging_mixin.py:112} INFO - [2020-07-18 22:40:49,869] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:40:49,884] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:40:49,914] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.059 seconds
+[2020-07-18 22:41:48,247] {scheduler_job.py:154} INFO - Started process (PID=97686) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:41:48,260] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:41:48,261] {logging_mixin.py:112} INFO - [2020-07-18 22:41:48,261] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:41:48,282] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:41:48,309] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.062 seconds
+[2020-07-18 22:42:46,686] {scheduler_job.py:154} INFO - Started process (PID=97722) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:42:46,709] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:42:46,711] {logging_mixin.py:112} INFO - [2020-07-18 22:42:46,711] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:42:46,721] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:42:46,754] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.068 seconds
+[2020-07-18 22:43:45,085] {scheduler_job.py:154} INFO - Started process (PID=97757) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:43:45,098] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:43:45,099] {logging_mixin.py:112} INFO - [2020-07-18 22:43:45,099] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:43:45,118] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:43:45,147] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.062 seconds
+[2020-07-18 22:44:43,532] {scheduler_job.py:154} INFO - Started process (PID=97793) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:44:43,545] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:44:43,546] {logging_mixin.py:112} INFO - [2020-07-18 22:44:43,545] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:44:43,563] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:44:43,588] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.057 seconds
+[2020-07-18 22:45:41,942] {scheduler_job.py:154} INFO - Started process (PID=97844) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:45:41,963] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:45:41,965] {logging_mixin.py:112} INFO - [2020-07-18 22:45:41,964] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:45:41,978] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:45:42,019] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.078 seconds
+[2020-07-18 22:46:40,318] {scheduler_job.py:154} INFO - Started process (PID=97884) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:46:40,335] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:46:40,338] {logging_mixin.py:112} INFO - [2020-07-18 22:46:40,337] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:46:40,358] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:46:40,400] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.083 seconds
+[2020-07-18 22:48:53,787] {scheduler_job.py:154} INFO - Started process (PID=97941) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:48:58,798] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:48:58,801] {logging_mixin.py:112} INFO - [2020-07-18 22:48:58,800] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:48:58,824] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:48:58,869] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 5.082 seconds
+[2020-07-18 22:51:22,118] {scheduler_job.py:154} INFO - Started process (PID=98014) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:22,131] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:51:22,133] {logging_mixin.py:112} INFO - [2020-07-18 22:51:22,132] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:22,150] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:22,179] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.062 seconds
+[2020-07-18 22:51:42,201] {scheduler_job.py:154} INFO - Started process (PID=98046) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:42,212] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:51:42,213] {logging_mixin.py:112} INFO - [2020-07-18 22:51:42,213] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:42,222] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:51:42,250] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.049 seconds
+[2020-07-18 22:52:00,532] {scheduler_job.py:154} INFO - Started process (PID=98078) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:00,543] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:52:00,544] {logging_mixin.py:112} INFO - [2020-07-18 22:52:00,544] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:00,553] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:00,580] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.049 seconds
+[2020-07-18 22:52:20,521] {scheduler_job.py:154} INFO - Started process (PID=98138) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:20,542] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:52:20,544] {logging_mixin.py:112} INFO - [2020-07-18 22:52:20,543] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:20,552] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:20,579] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.058 seconds
+[2020-07-18 22:52:40,482] {scheduler_job.py:154} INFO - Started process (PID=98211) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:40,511] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:52:40,514] {logging_mixin.py:112} INFO - [2020-07-18 22:52:40,513] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:40,531] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:52:40,564] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.082 seconds
+[2020-07-18 22:53:28,780] {scheduler_job.py:154} INFO - Started process (PID=98251) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:53:28,859] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:53:28,862] {logging_mixin.py:112} INFO - [2020-07-18 22:53:28,860] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:53:28,894] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:53:28,944] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.165 seconds
+[2020-07-18 22:54:27,201] {scheduler_job.py:154} INFO - Started process (PID=98287) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:54:27,214] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:54:27,216] {logging_mixin.py:112} INFO - [2020-07-18 22:54:27,215] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:54:27,233] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:54:27,260] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.059 seconds
+[2020-07-18 22:55:25,627] {scheduler_job.py:154} INFO - Started process (PID=98322) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:55:25,641] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-18 22:55:25,642] {logging_mixin.py:112} INFO - [2020-07-18 22:55:25,642] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:55:25,660] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-18 22:55:25,686] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.059 seconds
+[2020-07-19 00:38:46,709] {scheduler_job.py:154} INFO - Started process (PID=98384) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 00:38:46,722] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-19 00:38:46,724] {logging_mixin.py:112} INFO - [2020-07-19 00:38:46,724] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 00:38:46,741] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 00:38:46,792] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 0.083 seconds
+[2020-07-19 08:46:37,322] {scheduler_job.py:154} INFO - Started process (PID=98532) to work on /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 08:46:42,338] {scheduler_job.py:1562} INFO - Processing file /Users/AmandaTran/airflow/dags/attempt1.py for tasks to queue
+[2020-07-19 08:46:42,340] {logging_mixin.py:112} INFO - [2020-07-19 08:46:42,340] {dagbag.py:396} INFO - Filling up the DagBag from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 08:46:42,358] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/AmandaTran/airflow/dags/attempt1.py
+[2020-07-19 08:46:42,410] {scheduler_job.py:162} INFO - Processing /Users/AmandaTran/airflow/dags/attempt1.py took 5.089 seconds
